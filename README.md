@@ -617,7 +617,7 @@ In this experiment, Ubuntu virtual machines were created on a **Type-1 hyperviso
 ## 15. Repository Structure and Reproduction
 
 ```text
-CC_Experiment_1/
+├──CC-LAB-EXP1-HYPERVISOR
 ├── README.md                          ← this report
 ├── Type1/                             ← Proxmox VE screenshot
 │   └── type1_hypervisor.png
